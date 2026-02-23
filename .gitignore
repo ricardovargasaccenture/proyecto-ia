@@ -1,0 +1,18 @@
+__pycache__/
+*.pyc
+*.pyo
+
+# checkpoints / training outputs
+outputs/
+checkpoint-*/
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+# notebooks cache
+.ipynb_checkpoints/
+
+# entorno virtual
+.venv/
+venv/
